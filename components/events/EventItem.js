@@ -2,9 +2,9 @@ import Link from "next/link";
 import Image from "next/image";
 
 import Button from "../ui/Button";
-import AddressIcon from "../icons/AddressIcon";
-import ArrowRightIcon from "../icons/ArrowRightIcon";
-import DateIcon from "../icons/DateIcon";
+import AddressIcon from "../icons/address-icon";
+import ArrowRightIcon from "../icons/arrow-right-icon";
+import DateIcon from "../icons/date-icon";
 
 import classes from "./eventItem.module.css";
 
